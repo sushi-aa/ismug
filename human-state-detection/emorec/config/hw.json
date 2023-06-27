@@ -1,0 +1,16 @@
+{
+    "HARDWARE" : {
+        "pulse" : {
+            "type" : "float",
+            "unit" : "bpm"
+        },
+        "spo2" : {
+            "type" : "float",
+            "unit" : "%"
+        },
+        "respiratory" : {
+            "type" : "float",
+            "unit" : "k\u2126"
+        }
+    }
+}

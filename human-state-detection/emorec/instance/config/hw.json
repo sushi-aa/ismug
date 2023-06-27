@@ -1,0 +1,8 @@
+{
+    "HARDWARE" : {
+        "pulse" : {
+            "type" : "float",
+            "unit" : "bpm"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "EMOTIONS" : {
+        "angry" : {}, 
+        "disgust" : {}, 
+        "fear" : {}, 
+        "happy" : {}, 
+        "sad" : {},
+        "surprise" : {},
+        "neutral" : {}
+    },
+    "EMOTION_TYPE" : "float"
+}
